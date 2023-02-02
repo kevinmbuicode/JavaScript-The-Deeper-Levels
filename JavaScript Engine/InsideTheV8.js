@@ -1,0 +1,1 @@
+// JS code given, Lexical analysis done> Parser breaks code to tokens(identify meaning of code) > token formed into an AST(Abstract Syntax Tree) > Interpreter > Profiler > Compiler > & then Optimized code that the machine can understand.
