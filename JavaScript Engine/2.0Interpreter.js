@@ -9,3 +9,9 @@ for (let i = 0; i < 1000; i++) {
 }
 
 // This will go line by line in interpretion.
+
+// PROS WITH USING INTERPRETERS
+// 1. Quick to get up and run.
+
+// CONS
+// Comparatively slow when the codebase is huge, especially when looping.

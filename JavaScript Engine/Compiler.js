@@ -1,1 +1,0 @@
-// A complier tries to understand what we want to do in the code, and tries to change it to lower-level language such as machine code.
